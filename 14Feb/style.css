@@ -1,0 +1,108 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap') */
+
+/* .box{
+    background-color: blue;
+}
+
+.green{
+    color: white;
+}
+
+.btn{
+    width: 150px;
+    padding: 5px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.active{
+    background-color: rgb(73, 73, 220);
+}
+
+.disabled{
+    background-color: black;
+}
+
+.success{
+    background-color: rgb(254, 254, 5);
+    color: black;
+}
+
+#parent>div>h1{
+    color: blueviolet;
+}
+
+#parent>div>div>h3{
+    color: blue;
+}
+
+#parent h3{
+    color: blueviolet ;
+}
+
+#parent p{
+    color: brown;
+} */
+
+#eg1{
+    /* color: blue; */
+    /* color: rgb(196, 37, 235); */
+    /* color: rgba(196, 38, 235, 0.633); */
+    /* color: #5a6b9f; */
+
+    text-align: left;
+}
+
+#eg2{
+    text-align: right;
+}
+
+#eg3{
+    text-align: center;
+}
+
+#eg4{
+    text-align: justify;
+}
+
+#eg5{
+    text-transform: uppercase;
+}
+
+#eg6{
+    text-transform: lowercase;
+}
+
+#eg7{
+    text-transform: capitalize;
+}
+
+#eg8{
+    text-decoration: underline;
+}
+#eg9{
+    text-decoration: overline;
+}
+#eg10{
+    text-decoration: line-through;
+}
+
+#eg11{
+    /* line-height: 100px; */
+    /* text-shadow: 30px -20px 5px red; */
+    text-shadow: 0 0 10px yellow;
+    color: red;
+}
+
+#eg12{
+    /* line-height: 10px; */
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-family: "Roboto", sans-serif;
+    font-style: italic;
+}
+
+#eg13{
+    font-size: 50px;
+}

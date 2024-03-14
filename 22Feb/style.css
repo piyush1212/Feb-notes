@@ -1,0 +1,144 @@
+/* color property */
+
+.text-red {
+    color: red;
+  }
+  .text-blue {
+    color: blue;
+  }
+  .text-green {
+    color: green;
+  }
+  .text-yellow {
+    color: yellow;
+  }
+  .text-white {
+    color: white;
+  }
+  
+  /* background-color */
+  .bg-red {
+    background-color: red;
+  }
+  .bg-blue {
+    background-color: blue;
+  }
+  .bg-green {
+    background-color: green;
+  }
+  .bg-yellow {
+    background-color: yellow;
+  }
+  .bg-black {
+    background-color: black;
+  }
+  
+  /* font size */
+  .fs-1 {
+    font-size: 50px;
+  }
+  .fs-2 {
+    font-size: 40px;
+  }
+  .fs-3 {
+    font-size: 30px;
+  }
+  .fs-4 {
+    font-size: 20px;
+  }
+  .fs-5 {
+    font-size: 10px;
+  }
+  
+  /* padding */
+  .p-0 {
+    padding: 0px;
+  }
+  .p-1 {
+    padding: 5px;
+  }
+  .p-2 {
+    padding: 10px;
+  }
+  .p-3 {
+    padding: 15px;
+  }
+  .p-4 {
+    padding: 20px;
+  }
+  .p-5 {
+    padding: 25px;
+  }
+  
+  /* Margin */
+  .m-auto {
+    margin: auto;
+  }
+  .m-0 {
+    margin: 0px;
+  }
+  .m-1 {
+    margin: 5px;
+  }
+  .m-2 {
+    margin: 10px;
+  }
+  .m-3 {
+    margin: 15px;
+  }
+  .m-4 {
+    margin: 20px;
+  }
+  .m-5 {
+    margin: 25px;
+  }
+  
+  /* text center */
+  .text-center {
+    text-align: center;
+  }
+  
+  /* width */
+  .w-100 {
+    width: 100%;
+  }
+  .w-75 {
+    width: 75%;
+  }
+  .w-50 {
+    width: 50%;
+  }
+  .w-25 {
+    width: 25%;
+  }
+  .w-auto {
+    width: auto;
+  }
+  
+  /* height */
+  .h-100 {
+    height: 100%;
+  }
+  .h-75 {
+    height: 75%;
+  }
+  .h-50 {
+    height: 50%;
+  }
+  .h-25 {
+    height: 25%;
+  }
+  .h-auto {
+    height: auto;
+  }
+  
+  /* Border */
+  .border-1 {
+    border: 1px solid lightgray;
+  }
+  .border-2 {
+    border: 2px solid lightgray;
+  }
+  .border-3 {
+    border: 5px solid lightgray;
+  }
